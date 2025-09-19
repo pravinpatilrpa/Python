@@ -8,6 +8,7 @@ def Addition_array():
 Addition_array()
 
 list = [1, 2, 3, 4, 5]
+print('1st list item:',list[0])
 for x in list:
     print(x)
 def Addition_list():
