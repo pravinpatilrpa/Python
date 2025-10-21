@@ -1,6 +1,3 @@
-print("Welcome to code")
-
-'---------------------'
 def comments():
     # This is a single line comment
     print("Hello, World!")  # This prints Hello, World!
@@ -9,7 +6,7 @@ def comments():
     You can write multiple lines here
     """
     print("Python is fun!")
-#comments()
+comments()
 
 
 def type_conversion():
